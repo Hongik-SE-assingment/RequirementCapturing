@@ -1,0 +1,24 @@
+깃허브 주소: https://github.com/Hongik-SE-assingment/RequirementCapturing
+
+[김민아] Sun May 10 23:23:46 2026 +0900 docs: 최종 취합 결과물 파일 추가 8ae2586
+[김민아] Sun May 10 21:12:55 2026 +0900 Merge pull request #4 from Hongik-SE-assingment/JungSeonghun 5d56785
+[김민아] Sun May 10 21:12:36 2026 +0900 Merge pull request #3 from Hongik-SE-assingment/ShinHanYoung f37bf82
+[김민아] Sun May 10 21:12:13 2026 +0900 Merge pull request #2 from Hongik-SE-assingment/YooYeongSeon 9b33dfe
+[김민아] Sun May 10 21:11:35 2026 +0900 Merge pull request #1 from Hongik-SE-assingment/KimMinA 7ed9513
+[gamer515] Sun May 10 20:19:41 2026 +0900 use case diagram 포함. 244b1e8
+[yam] Sun May 10 19:19:27 2026 +0900 docs: use case description 작성 47a0fed
+[yam] Sun May 10 19:03:46 2026 +0900 docs: 응답 수정화면 수정 ac7ac5e
+[HanyoungShin] Sun May 10 18:48:50 2026 +0900 파일 이름 변경 및 UI 생성 88b7721
+[yam] Sun May 10 18:44:25 2026 +0900 docs: use case diagram 코드 생성 144da00
+[yam] Sun May 10 18:23:58 2026 +0900 docs: UI 디자인 제작 e455f0c
+[yam] Sun May 10 18:21:02 2026 +0900 docs: requirement list 작성 752d52f
+[kimminna] Sun May 10 16:39:23 2026 +0900 docs: 각 기능에 대한 UI pdf 파일 추가 ed31c40
+[kimminna] Sun May 10 16:39:13 2026 +0900 docs: 유스 케이스 다이어그램 코드 생성 3779cc7
+[kimminna] Sun May 10 16:39:04 2026 +0900 docs: 유스 케이스 설명 파일 추가 d601faf
+[kimminna] Sun May 10 16:38:55 2026 +0900 docs: 요구사항 리스트 파일 추가 0f11e88
+[HanyoungShin] Sat May 9 15:04:13 2026 +0900 uml 코드 생성 ef71da8
+[HanyoungShin] Sat May 9 14:28:45 2026 +0900 requirement list & use case description 생성 f1b1fe0
+[gamer515] Fri May 8 11:41:53 2026 +0900 Merge branch 'main' into YooYeongSeon 558ea17
+[gamer515] Fri May 8 11:38:53 2026 +0900 설문 검색/조회 및 응답 파트 마무리 단계 2f3404a
+[김민아] Thu May 7 16:53:30 2026 +0900 docs: 리드미 파일에 폴더 구조 업데이트 310ef8c
+[yam] Wed May 6 22:41:06 2026 +0900 docs: README.md 생성 7fc3e72
